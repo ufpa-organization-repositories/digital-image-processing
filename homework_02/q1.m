@@ -34,3 +34,4 @@ function [Imagem02] = q1()
     figure(2)
     imshow(Imagem02)
 end
+
